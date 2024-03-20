@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Toolbar">#45214A</color>
+    <color name="TextColorMain">#3A293C</color>
+    <color name="ButtonCalcular">#D6D58E</color>
 </resources>

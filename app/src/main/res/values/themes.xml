@@ -3,6 +3,7 @@
     <style name="Base.Theme.Calcula_viagem" parent="Theme.Material3.Light.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/Toolbar</item>
     </style>
 
     <style name="Theme.Calcula_viagem" parent="Base.Theme.Calcula_viagem" />
