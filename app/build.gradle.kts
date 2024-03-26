@@ -33,10 +33,12 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
-    // ViewBinding
-    buildFeatures {
-        viewBinding; true
-    }
+    // ViewBinding nessa nova att, usa "= true"
+   buildFeatures {
+       viewBinding = true
+   }
+
+
 }
 
 dependencies {
