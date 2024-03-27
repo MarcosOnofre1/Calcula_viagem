@@ -21,7 +21,7 @@
              android:layout_gravity="center">
 
              <EditText
-                 android:id="@+id/edt_Distancia"
+                 android:id="@+id/edt_Distance"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:layout_marginHorizontal="32dp"
@@ -40,7 +40,7 @@
                  android:alpha="0.6"/>
 
              <EditText
-                 android:id="@+id/edt_Preco"
+                 android:id="@+id/edt_Price"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:layout_marginHorizontal="32dp"
@@ -61,7 +61,7 @@
 
 
              <EditText
-                 android:id="@+id/edt_Auto"
+                 android:id="@+id/edt_Autonomy"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:layout_marginHorizontal="32dp"
@@ -91,7 +91,7 @@
                  android:layout_marginTop="64dp"/>
 
              <TextView
-                 android:id="@+id/txt_Valor_Total"
+                 android:id="@+id/txt_Total_Value"
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
                  android:layout_marginTop="12dp"
@@ -101,7 +101,7 @@
                  android:textSize="34sp"/>
 
              <Button
-                 android:id="@+id/btn_Calcula"
+                 android:id="@+id/btn_Calculate"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:padding="16dp"
